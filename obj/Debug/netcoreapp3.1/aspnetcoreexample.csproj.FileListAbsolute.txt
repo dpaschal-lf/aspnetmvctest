@@ -37,3 +37,4 @@
 /Users/danielpaschal/Desktop/lfz/lfz/_practice/aspnetcoreexample/obj/Debug/netcoreapp3.1/aspnetcoreexample.csproj.CopyComplete
 /Users/danielpaschal/Desktop/lfz/lfz/_practice/aspnetcoreexample/obj/Debug/netcoreapp3.1/aspnetcoreexample.dll
 /Users/danielpaschal/Desktop/lfz/lfz/_practice/aspnetcoreexample/obj/Debug/netcoreapp3.1/aspnetcoreexample.pdb
+/Users/danielpaschal/Desktop/lfz/lfz/_practice/aspnetcoreexample/obj/Debug/netcoreapp3.1/Razor/Views/HelloWorld/Index.cshtml.g.cs

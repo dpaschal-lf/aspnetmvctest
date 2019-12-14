@@ -25,6 +25,11 @@ namespace aspnetcoreexample.Controllers
 
         public IActionResult Privacy()
         {
+            ViewData["Message"]="stuff";
+            return View();
+        }
+        public IActionResult Dude(){
+            ViewData["Message"]="what?";
             return View();
         }
 
